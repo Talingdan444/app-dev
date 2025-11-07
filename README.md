@@ -5,7 +5,7 @@ My first repository
 
 ## Overview
 **Left 4 Dead 2** is a *cooperative first-person shooter* developed by **Valve**.  
-It’s one of my favorite games because of its intense zombie battles, survival teamwork, and chaotic fun.
+It’s one of my favorite games of of the two series consisting L4D1 and L4D2 because it's more intense zombie battles, survival teamwork, not to mention it's more chaotically fun than the predecessor.
 
 > “Nobody survives forever.”
 
